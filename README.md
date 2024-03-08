@@ -28,7 +28,7 @@ Below is the sequence diagram for security testing.
 To configure Secret Scanning, refer to [Set up secret scanning](https://learn.microsoft.com/en-us/azure/devops/repos/security/configure-github-advanced-security-features?view=azure-devops&tabs=yaml#set-up-secret-scanning)
 
 #### 2. terraform apply
-The Terraform code to be applyed can be found [here]()<br>
+The Terraform code to be applyed can be found [here](https://github.com/windagecat/IaC-cicd-securitytest/tree/main/codes/Azure)<br>
 >For the explanation of the security testing process, I don't prepare any fixed code that passes the test.
 
 Azure storages for remote-tfstate is required in advance.<br>
